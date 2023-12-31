@@ -1,0 +1,72 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(20): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(29): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(50): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(55): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(60): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(68): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(73): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(78): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(86): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(91): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(97): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(105): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(110): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(115): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(123): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(128): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(133): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(142): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(147): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(152): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(160): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(165): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(171): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(179): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(184): warning C4244: '引數': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(189): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(606): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(739): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=long double
+          ]
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(768): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=long double
+          ]
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(779): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(781): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(783): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(785): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(65): warning C4715: 'four_point_01': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(83): warning C4715: 'four_point_02': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(102): warning C4715: 'four_point_03': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(120): warning C4715: 'four_point_04': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(138): warning C4715: 'four_point_11': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(157): warning C4715: 'four_point_12': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(176): warning C4715: 'four_point_13': 不是所有控制路徑都傳回值
+c:\users\user\desktop\open_image\windowsapplication1\windowsapplication1\myform.h(194): warning C4715: 'four_point_14': 不是所有控制路徑都傳回值
+d:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(815): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(2135): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3735): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  WindowsApplication1.vcxproj -> C:\Users\user\Desktop\open_image\WindowsApplication1\x64\Debug\WindowsApplication1.exe

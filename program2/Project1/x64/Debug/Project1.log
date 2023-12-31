@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(165): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(166): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(167): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(168): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(236): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(237): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+d:\課程資料\3d\m10707307_hw2\program2\project1\main.cpp(238): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+  Project1.vcxproj -> D:\課程資料\3D\M10707307_HW2\program2\x64\Debug\Project1.exe

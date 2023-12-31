@@ -1,0 +1,2 @@
+﻿  main.cpp
+d:\課程資料\3d\project1\project1\main.cpp(4): fatal error C1083: 無法開啟包含檔案: 'opencv2/opencv.hpp': No such file or directory

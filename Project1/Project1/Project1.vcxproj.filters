@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\Bird">
+      <UniqueIdentifier>{7dda819f-da59-47c4-8051-30dd3185321d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\Last">
+      <UniqueIdentifier>{eed83339-3fa8-4648-98dd-f4e6aebf2974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\Monk">
+      <UniqueIdentifier>{63278e9c-c3bb-4595-8a69-dcaef165df20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\Teap">
+      <UniqueIdentifier>{0815cb3d-daf5-457b-b957-b81aca80f68f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Homework#1\Bird\02.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\03.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\04.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\05.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\06.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\07.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\08.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\09.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\10.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\11.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\01.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\02.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\03.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\04.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\05.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\06.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\07.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\08.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\09.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\10.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Last\11.bmp">
+      <Filter>资源文件\Last</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\01.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\02.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\03.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\04.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\05.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\06.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\07.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\08.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\09.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\10.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Teapot\11.bmp">
+      <Filter>资源文件\Teap</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\01.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\02.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\03.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\04.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\05.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\06.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\07.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\08.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\09.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\10.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Monkey\11.bmp">
+      <Filter>资源文件\Monk</Filter>
+    </Image>
+    <Image Include="..\..\Homework#1\Bird\01.bmp">
+      <Filter>资源文件\Bird</Filter>
+    </Image>
+    <Image Include="C:\Users\user\Desktop\17696.jpg" />
+  </ItemGroup>
+</Project>

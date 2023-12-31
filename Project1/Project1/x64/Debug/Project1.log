@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\課程資料\3d\project1\project1\main.cpp(68): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\課程資料\3d\project1\project1\main.cpp(69): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\課程資料\3d\project1\project1\main.cpp(70): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\課程資料\3d\project1\project1\main.cpp(97): warning C4715: 'Check': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> D:\課程資料\3D\Project1\x64\Debug\Project1.exe
